@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Matt Schoen
+ * Assignment 2
+ * if player is lower than -1 gameOver is triggered
+ */
 public class LoseOnFall : MonoBehaviour
 {
 

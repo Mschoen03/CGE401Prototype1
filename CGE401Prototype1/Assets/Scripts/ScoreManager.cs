@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+/*
+ * Matt Schoen
+ * Assignment 2
+ * updates score display on trigger zones
+ */
 public class ScoreManager : MonoBehaviour
 {
     public static bool gameOver;

@@ -1,6 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+/*
+ * Matt Schoen
+ * Assignment 2
+ * player movement
+ */
 
 public class PlayerController : MonoBehaviour
 {

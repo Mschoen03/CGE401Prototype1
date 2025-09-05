@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Matt Schoen
+ * Assignment 2
+ * Trigger Zones for score
+ */
 public class TriggerZoneAddScoreOnce : MonoBehaviour
 {
     private bool triggered = false;
